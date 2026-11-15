@@ -3,7 +3,7 @@ Play or Fortuna Favor's protoype on Itch.io!
 
 <p align="center">
   <a href="https://detached-brains.itch.io/fortuna-favors">
-    <img src="https://raw.githubusercontent.com/detached-brains/.github/main/profile/fortuna-cover.png" alt="Fortuna Favors on itch.io" width="554">
+    <img src="https://raw.githubusercontent.com/detached-brains/.github/main/profile/forutna-favors-cover.png" alt="Fortuna Favors on itch.io" width="554">
   </a>
   <br>
   <a href="https://detached-brains.itch.io/fortuna-favors">
