@@ -1,10 +1,11 @@
 # ꧁𓊈𒆜 ¡ℌ𝔢𝔩𝔩𝔬 𝔣𝔯𝔬𝔪 𝔇𝔢𝔱𝔞𝔠𝔥𝔢𝔡 𝔅𝔯𝔞𝔦𝔫𝔰! 🧠 𒆜𓊉꧂
-Play or Fortuna Favor's protoype on Itch.io!
+Play our new game's prototype, Fortuna Favors, on Itch.io!
 
 <p align="center">
   <a href="https://detached-brains.itch.io/fortuna-favors">
-    <img src="https://raw.githubusercontent.com/detached-brains/.github/main/profile/forutna-favors-cover.png" alt="Fortuna Favors on itch.io" width="554">
+    <img src="https://raw.githubusercontent.com/detached-brains/.github/main/profile/forutna-favors-cover.png" alt="Fortuna Favors on itch.io" width="500">
   </a>
+  <br>
   <br>
   <a href="https://detached-brains.itch.io/fortuna-favors">
     <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?logo=itchdotio&logoColor=white" alt="Play on itch.io">
