@@ -1,8 +1,18 @@
 # ꧁𓊈𒆜 ¡ℌ𝔢𝔩𝔩𝔬 𝔣𝔯𝔬𝔪 𝔇𝔢𝔱𝔞𝔠𝔥𝔢𝔡 𝔅𝔯𝔞𝔦𝔫𝔰! 🧠 𒆜𓊉꧂
+Play or Fortuna Favor's protoype on Itch.io!
 
+<p align="center">
+  <a href="https://detached-brains.itch.io/fortuna-favors">
+    <img src="https://raw.githubusercontent.com/detached-brains/.github/main/profile/fortuna-cover.png" alt="Fortuna Favors on itch.io" width="554">
+  </a>
+  <br>
+  <a href="https://detached-brains.itch.io/fortuna-favors">
+    <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?logo=itchdotio&logoColor=white" alt="Play on itch.io">
+  </a>
+</p>
 
 ## ‿̩͙⊱༒︎༻ Our Team ༺༒︎⊰‿̩͙</h2>
-<p>We are a student group just starting in videogame development! Every comment and feedback encourages us a little bit&nbsp;more, so please tell us what you think about our creations&nbsp;:D</p>
+We are a student group just starting in videogame development! Every comment and feedback encourages us a little bit more, so please tell us what you think about our creations :D
 
 ### ✃ ˎˊ˗﹒Developers
 
@@ -11,7 +21,8 @@
 ### ✃ ˎˊ˗﹒Illustrators
 •〢ᯓ [@soydarroz](https://github.com/soydarroz), [@ObakeIST](https://github.com/ObakeIST)
 
-<p><small>•〢ᯓ <a href="https://itch.io/profile/soydarroz">@soydarroz</a>,&nbsp;<a href="https://itch.io/profile/obake-ist">@Obake_ist</a></small></p>
+---
+<p><small>asdasd</small></p>
 <!--
 
 **Here are some ideas to get you started:**
